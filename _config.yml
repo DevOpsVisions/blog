@@ -22,7 +22,7 @@ description:
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://github.com/DevOpsVisions/devopsvisions.github.io"
+url: "https://github.com/DevOpsVisions/blog"
 
 github:
   username: DevOpsVisions # change to your github username
@@ -38,7 +38,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/company/devops-visions
-    - https://github.com/DevOpsVisions/devopsvisions.github.io    
+    - https://github.com/DevOpsVisions/blog    
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
