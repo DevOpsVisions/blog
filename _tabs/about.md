@@ -9,7 +9,9 @@ order: 6
 We operate through three interconnected entities that work together to provide comprehensive DevOps services, mentoring, and community support.
 
 ### DevOps Visions (Professional Services Company)  
-<img src="/assets/img/mics/devops-visions-250-145-transparent.png" align="left" style="margin-right: 20px; margin-bottom: 10px;" width="250" />
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 250px;">
+  <img src="/assets/img/mics/devops-visions-250-145-transparent.png" width="100%" alt="DevOps Visions Logo" />
+</div>
 
 DevOps Visions is our core professional services organization. We provide strategic consulting, hands-on implementation, and continuous advisory for organizations aiming to advance their DevOps, cloud transformation, and platform engineering capabilities.
 
@@ -26,7 +28,9 @@ We work closely with clients to modernize infrastructure, streamline software de
 
 
 ### Elmentor Program (Private Mentorship Community)  
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 250px;">
 <img src="/assets/img/mics/elmentor-program-250-144-transparent.png" align="left" style="margin-right: 20px; margin-bottom: 10px;" width="250" />
+</div>
 
 Elmentor Program is an invite-only, international mentorship network designed to accelerate personal and professional growth. With approximately 150 members from over 20 countries, the community blends experience levels ranging from early-career practitioners to senior leaders with 20+ years of expertise.
 
@@ -43,7 +47,9 @@ It simulates the rigor and support of top-tier organizational training while off
 
 
 ### DevOps Visions Public Community (Open Collaboration Space)  
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 250px;">
 <img src="/assets/img/mics/devops-visions-community-250-162-transparent.png" align="left" style="margin-right: 20px; margin-bottom: 10px;" width="250" />
+</div>
 
 The DevOps Visions Public Community is sponsored by DevOps Visions and serves as the **open gateway and public interface for the Elmentor Program**. It bridges the gap between industry professionals, aspiring engineers, and the wider tech ecosystem—allowing the values, practices, and insights developed within the private mentoring space to be shared with the world.
 
