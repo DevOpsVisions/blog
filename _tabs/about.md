@@ -28,9 +28,10 @@ We work closely with clients to modernize infrastructure, streamline software de
 
 
 ### Elmentor Program (Private Mentorship Community)  
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 250px;">
-<img src="/assets/img/mics/elmentor-program-250-144-transparent.png" align="left" style="margin-right: 20px; margin-bottom: 10px;" width="250" />
+<div style="text-align: left;">
+  <img src="/assets/img/mics/devops-visions-250-145-transparent.png" style="float: left; margin-right: 20px; margin-bottom: 10px;" width="250" alt="DevOps Visions Logo">
 </div>
+
 
 Elmentor Program is an invite-only, international mentorship network designed to accelerate personal and professional growth. With approximately 150 members from over 20 countries, the community blends experience levels ranging from early-career practitioners to senior leaders with 20+ years of expertise.
 
