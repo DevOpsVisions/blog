@@ -9,8 +9,8 @@ order: 6
 We operate through three interconnected entities that work together to provide comprehensive DevOps services, mentoring, and community support.
 
 ### DevOps Visions (Professional Services Company)  
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 250px;">
-  <img src="/assets/img/mics/devops-visions-250-145-transparent.png" width="100%" alt="DevOps Visions Logo" />
+<div style="text-align: left;">
+  <img src="/assets/img/mics/devops-visions-250-145-transparent.png" style="margin-bottom: 10px;" width="250" alt="DevOps Visions Logo">
 </div>
 
 DevOps Visions is our core professional services organization. We provide strategic consulting, hands-on implementation, and continuous advisory for organizations aiming to advance their DevOps, cloud transformation, and platform engineering capabilities.
@@ -48,7 +48,7 @@ It simulates the rigor and support of top-tier organizational training while off
 
 ### DevOps Visions Public Community (Open Collaboration Space)  
 <div style="text-align: left;">
-  <img src="/assets/img/mics/devops-visions-community-250-162-transparent.png" style="margin-bottom: 10px;" width="250" alt="DevOps Visions Logo">
+  <img src="/assets/img/mics/devops-visions-community-250-162-transparent.png" style="margin-bottom: 10px;" width="250" alt="DevOps Visions Community Logo">
 </div>
 
 The DevOps Visions Public Community is sponsored by DevOps Visions and serves as the **open gateway and public interface for the Elmentor Program**. It bridges the gap between industry professionals, aspiring engineers, and the wider tech ecosystem—allowing the values, practices, and insights developed within the private mentoring space to be shared with the world.
