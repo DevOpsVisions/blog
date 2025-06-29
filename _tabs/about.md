@@ -4,21 +4,41 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-## DevOps Visions Community
+## About DevOps Visions Ecosystem
+### Three Interconnected Entities
+We operate through three interconnected entities that work together to provide comprehensive DevOps services and community support:
 
-![](/assets/img/mics/devops-visions-community.png)
+### DevOps Visions (Company)
+![](/assets/img/mics/devops-visions-250-145-transparent.png)
 
-DevOps Visions Community is an exclusive community include approximately 150 members from across the world. We have members from over 20 countries and have varied levels of experience.
+DevOps Visions is our professional services organization that provides consulting, advisory services, best practices implementation, and pattern guidance to help organizations transform their DevOps and cloud capabilities. We specialize in cloud advisory services, helping organizations navigate their cloud transformation journey with strategic guidance and hands-on expertise.
 
-The community includes novices at the on the beginning of their careers with one to two years of experience, as well as professional experts with up to 25 years of expertise in their respective fields.
+**Website:** [https://devopsvisions.com](https://devopsvisions.com)
 
-Our primary objective is to facilitate the sharing and exchange of knowledge within our group, thereby promoting ongoing, continuous learning and professional development.
+### Elmentor Program (Private Community)
+![](/assets/img/mics/elmentor-program-250-144-transparent.png)
 
-Within this community, we engage in several activities, including:
+Elmentor Program is an exclusive private community that includes approximately 150 members from across the world, spanning over 20 countries with varied levels of experience. The community includes novices at the beginning of their careers with one to two years of experience, as well as professional experts with up to 25 years of expertise in their respective fields.
 
-- Sharing job opportunities
-- Collaborating on open-source projects
+Within Elmentor Program, we engage in several activities, including:
+- Sharing knowledge and expertise
 - Organizing study groups
-- Exchanging knowledge
-- Discussing use cases and business scenarios
-- Providing support to the wider public community
+- Collaborative learning sessions
+- Professional development activities
+- Mentoring and guidance
+
+**Website:** [https://elmentorprogram.com](https://elmentorprogram.com)
+
+### DevOps Visions Public Community
+![](/assets/img/mics/devops-visions-community-250-162-transparent.png)
+
+The DevOps Visions Public Community is sponsored by DevOps Visions company and serves as the public interface for Elmentor Program. Our primary objective is to facilitate the sharing and exchange of knowledge, thereby promoting ongoing, continuous learning and professional development within the broader community.
+
+Through this public community, we:
+- Share job opportunities
+- Collaborate on open-source projects
+- Exchange knowledge and best practices
+- Discuss use cases and business scenarios
+- Provide support to the wider DevOps community
+
+**Website:** [https://blog.devopsvisions.com](https://blog.devopsvisions.com)
