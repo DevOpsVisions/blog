@@ -51,7 +51,7 @@ A public discussion session analyzing the new DORA report 2025 (Impact of Genera
 A community-wide Career Guidance Session will be arranged in collaboration with Kareem. The session will offer practical insights into job seeking, personal branding, and navigating the hiring process, supporting our members in their professional journeys.
 
 - **📅 Date:** Sep 06, 2025  
-- **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), Kareem Khamis  
+- **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Kareem Khamis](https://github.com/KareemKhamis)  
 - **👁️ Views:** Upcoming Event  
 - **💻 Streamed Live on:** Facebook  
 - **🌐 Language:** Arabic   
