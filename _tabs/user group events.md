@@ -6,6 +6,63 @@ order: 5
 
 All community sessions past and upcoming are listed below. The most recent events appear at the top.
 
+## 🔹 Copilot End-to-End Website Walkthrough
+
+### 📝About this event: 
+
+A public demo session on how GitHub Copilot was used to build the Elmentor website in just a few hours. http://elmentorprogram.com/
+
+- **📅 Date:** Nov 19, 2025  
+- **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)  
+- **👁️ Views:** Upcoming Event  
+- **💻 Streamed Live on:** Facebook  
+- **🌐 Language:** Arabic   
+- **🎞️ Record available on:**  
+   - [Facebook Event](https://www.facebook.com/share/16VA46JTZo/)  
+   - [YouTube Video](https://www.youtube.com/@MRadwanMSF/videos)
+
+- **🏷️ Tags:** `copilot` `website development` `AI`
+
+---
+
+## 🔹 DORA 2025 AI Report Review
+
+### 📝About this event: 
+
+A public discussion session analyzing the new DORA report 2025 (Impact of Generative AI in Software Development). This report offers research-backed guidance for leaders and practitioners to effectively navigate this transformation, providing actionable insights to maximize AI's benefits while mitigating potential risks. DORA report link: https://services.google.com/fh/files/misc/dora-impact-of-generative-ai-in-software-development.pdf
+
+- **📅 Date:** Oct 08, 2025  
+- **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)  
+- **👁️ Views:** Upcoming Event  
+- **💻 Streamed Live on:** Facebook  
+- **🌐 Language:** Arabic   
+- **🎞️ Record available on:**  
+   - [Facebook Event](https://www.facebook.com/share/19M6GbMjKX/)  
+   - [YouTube Video](https://www.youtube.com/@MRadwanMSF/videos)
+
+- **🏷️ Tags:** `DORA` `AI` `software development`
+
+---
+
+## 🔹 Career Guidance Session with Kareem
+
+### 📝About this event: 
+
+A community-wide Career Guidance Session will be arranged in collaboration with Kareem. The session will offer practical insights into job seeking, personal branding, and navigating the hiring process, supporting our members in their professional journeys.
+
+- **📅 Date:** Sep 06, 2025  
+- **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), Kareem Khamis  
+- **👁️ Views:** Upcoming Event  
+- **💻 Streamed Live on:** Facebook  
+- **🌐 Language:** Arabic   
+- **🎞️ Record available on:**  
+   - [Facebook Event](https://www.facebook.com/share/16i5zPMTZe/)  
+   - [YouTube Video](https://www.youtube.com/@MRadwanMSF/videos)
+
+- **🏷️ Tags:** `career guidance` `mentorship` `professional development`
+
+---
+
 ## 🔹 GitHub Foundation Course [AR] [May 2025]-[#1]
 
 ### 📝About this event: 
