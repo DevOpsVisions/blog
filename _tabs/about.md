@@ -32,7 +32,7 @@ We work closely with clients to modernize infrastructure, streamline software de
   <img src="/assets/img/mics/elmentor-program-250-144-transparent.png" style="margin-bottom: 10px;" width="250" alt="Elmentor Program Logo">
 </div>
 
-Elmentor Program is an invite-only, international mentorship network designed to accelerate personal and professional growth. With approximately 150 members from over 20 countries, the community blends experience levels ranging from early-career practitioners to senior leaders with 20+ years of expertise.
+Elmentor Program is a paid, invite-only international mentorship network designed to accelerate personal and professional growth. Operated by DevOps Visions, it serves as a strategic talent pipeline and leadership development layer within our ecosystem. With approximately 150 members from over 20 countries, the community blends experience levels ranging from early-career practitioners to senior leaders with 20+ years of expertise.
 
 Within the Elmentor Program, we engage in:
 - Curated learning paths and development tracks  
