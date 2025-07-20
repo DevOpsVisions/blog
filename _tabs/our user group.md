@@ -133,7 +133,7 @@ These activities are designed to benefit everyone—from novices to experts—wh
 
 ### Events & Highlights
 - [Events Page]({{ '/user-group-events/' | relative_url }})
-- [Featured Posts](/)
+- [Featured Posts]({{ '/' | relative_url }})
 
 
 
