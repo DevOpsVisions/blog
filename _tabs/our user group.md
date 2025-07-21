@@ -132,7 +132,7 @@ These activities are designed to benefit everyone—from novices to experts—wh
 - [DevOps Visions Facebook](https://www.facebook.com/vsalmplanet)
 
 ### Events & Highlights
-- [Events Page](/user-group-events/)
+- [Events Page]({{ '/user-group-events/' | relative_url }})
 - [Featured Posts]({{ '/' | relative_url }})
 
 
