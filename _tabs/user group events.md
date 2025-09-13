@@ -57,7 +57,7 @@ A community-wide Career Guidance Session will be arranged in collaboration with 
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
    - [Facebook Event](https://www.facebook.com/share/16i5zPMTZe/)  
-   - [YouTube Video](https://www.youtube.com/@MRadwanMSF/videos)
+   - [YouTube Video](https://www.youtube.com/watch?v=bwY4QYxJy5w&ab_channel=MohamedRadwan%28EG%29)
 
 - **🏷️ Tags:** `career guidance` `mentorship` `professional development`
 
