@@ -111,7 +111,7 @@ With tools like GitHub Copilot evolving rapidly, we saw an opportunity to redefi
 - **📅 Date:** Mar 25, 2025  
 - **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Rehab Ragab](https://rehababotalep.github.io/)  
 - **👁️ Views:** 1,200  
-- **💻 Streamed Live on:** Facebook  
+- **💻 Streamed Live on:** Linkedin  
 - **🌐 Language:** English   
 - **🎞️ Record available on:**  
    - [Live Recording](https://www.linkedin.com/events/7306300550906589184/?originTrackingId=uoFNjNH5Qqacy4MjJSR2Jg%3D%3D)  
