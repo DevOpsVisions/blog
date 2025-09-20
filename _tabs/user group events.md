@@ -75,7 +75,7 @@ A comprehensive course launching in May 2025 that covers everything you need to 
 - **💻 Streamed Live on:** Facebook  
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
-   - [Live Recording](https://www.facebook.com/mradwandevops/videos/3198024397002250)  
+   - [Facebook Event](https://www.facebook.com/events/580587241812074/)  
    - [YouTube Video](https://www.youtube.com/watch?v=6DDohOfKUFk&t=3131s)
 
 - **🏷️ Tags:** `github` `visibility` `project management`
