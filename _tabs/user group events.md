@@ -57,7 +57,7 @@ A community-wide Career Guidance Session will be arranged in collaboration with 
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
    - [Facebook Event](https://www.facebook.com/share/16i5zPMTZe/)  
-   - [YouTube Video](https://www.youtube.com/@MRadwanMSF/videos)
+   - [YouTube Video](https://www.youtube.com/watch?v=bwY4QYxJy5w&ab_channel=MohamedRadwan%28EG%29)
 
 - **🏷️ Tags:** `career guidance` `mentorship` `professional development`
 
@@ -75,7 +75,7 @@ A comprehensive course launching in May 2025 that covers everything you need to 
 - **💻 Streamed Live on:** Facebook  
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
-   - [Live Recording](https://www.facebook.com/mradwandevops/videos/3198024397002250)  
+   - [Facebook Event](https://www.facebook.com/events/580587241812074/)  
    - [YouTube Video](https://www.youtube.com/watch?v=6DDohOfKUFk&t=3131s)
 
 - **🏷️ Tags:** `github` `visibility` `project management`
@@ -111,7 +111,7 @@ With tools like GitHub Copilot evolving rapidly, we saw an opportunity to redefi
 - **📅 Date:** Mar 25, 2025  
 - **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Rehab Ragab](https://rehababotalep.github.io/)  
 - **👁️ Views:** 1,200  
-- **💻 Streamed Live on:** Facebook  
+- **💻 Streamed Live on:** Linkedin  
 - **🌐 Language:** English   
 - **🎞️ Record available on:**  
    - [Live Recording](https://www.linkedin.com/events/7306300550906589184/?originTrackingId=uoFNjNH5Qqacy4MjJSR2Jg%3D%3D)  
