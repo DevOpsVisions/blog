@@ -12,7 +12,7 @@ All community sessions past and upcoming are listed below. The most recent event
 
 A public demo session on how GitHub Copilot was used to build the Elmentor website in just a few hours. http://elmentorprogram.com/
 
-- **📅 Date:** Nov 19, 2025  
+- **📅 Date:** Dec 09, 2025  
 - **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)  
 - **👁️ Views:** Upcoming Event  
 - **💻 Streamed Live on:** Facebook  
@@ -52,7 +52,7 @@ A community-wide Career Guidance Session will be arranged in collaboration with 
 
 - **📅 Date:** Sep 06, 2025  
 - **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Kareem Khamis](https://github.com/KareemKhamis)  
-- **👁️ Views:** Upcoming Event  
+- **👁️ Views:** 1,800  
 - **💻 Streamed Live on:** Facebook  
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
