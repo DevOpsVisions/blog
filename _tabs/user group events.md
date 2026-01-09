@@ -6,6 +6,26 @@ order: 5
 
 All community sessions past and upcoming are listed below. The most recent events appear at the top.
 
+## 🔹 The AI-Augmented DevOps Loop
+
+### 📝About this event:
+
+A public demo session on how GitHub Copilot was used to build the Elmentor website in just a few hours by
+streamlining the developer inner loop. http://elmentorprogram.com/ 
+
+- **📅 Date:** Dec 17, 2025
+- **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)
+- **👁️ Views:** Upcoming Event
+- **💻 Streamed Live on:** Linkedin
+- **🌐 Language:** English
+- **🎞️ Record available on:**
+  - [Live Recording](https://www.linkedin.com/events/7383451323620433920/)
+  - [YouTube Video](https://www.youtube.com/watch?v=JV_eBwRS9uc)
+
+- **🏷️ Tags:** `copilot` `website development` `AI` `devops`
+
+---
+
 ## 🔹 Copilot End-to-End Website Walkthrough
 
 ### 📝About this event: 
