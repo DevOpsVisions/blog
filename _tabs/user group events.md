@@ -53,7 +53,7 @@ A public discussion session analyzing the new DORA report 2025 (Impact of Genera
 
 - **📅 Date:** Oct 08, 2025  
 - **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)  
-- **👁️ Views:** Upcoming Event  
+- **👁️ Views:** 870  
 - **💻 Streamed Live on:** Facebook  
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
