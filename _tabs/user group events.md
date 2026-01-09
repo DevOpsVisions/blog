@@ -34,12 +34,12 @@ A public demo session on how GitHub Copilot was used to build the Elmentor websi
 
 - **📅 Date:** Dec 09, 2025  
 - **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)  
-- **👁️ Views:** Upcoming Event  
+- **👁️ Views:** 1,200  
 - **💻 Streamed Live on:** Facebook  
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
    - [Facebook Event](https://www.facebook.com/share/16VA46JTZo/)  
-   - [YouTube Video](https://www.youtube.com/@MRadwanMSF/videos)
+   - [YouTube Video](https://www.youtube.com/watch?v=0Id7UaOeQNY)
 
 - **🏷️ Tags:** `copilot` `website development` `AI`
 
