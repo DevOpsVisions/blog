@@ -232,7 +232,7 @@ nano migration-config.json
 ---
 ## Before Running the Migration (Testing Only)
 
-### Create test  inherited Process , Custome fields , status and Work item types 
+### Create test inherited process, custom fields, states, and work item types 
 
 #### Inherited Process with new workitem Type 
 
