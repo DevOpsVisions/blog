@@ -234,7 +234,7 @@ nano migration-config.json
 
 ### Create test inherited process, custom fields, states, and work item types 
 
-#### Inherited Process with new workitem Type 
+#### Inherited Process with new work item type 
 
 <img width="1579" height="800" alt="Image" src="/assets/img/azure-process-migrator/06-custom-agile-process.png" />
 
