@@ -134,7 +134,7 @@ You need PATs for both source and target organizations.
 
 Repeat the same steps for your target organization.
 
-#### ** Info: you can create one PAT for both target and source Org**
+#### **Info: you can create one PAT for both target and source organization**
 
 <img width="622" height="841" alt="Image" src="/assets/img/azure-process-migrator/05-combined-pat.png" />
 
