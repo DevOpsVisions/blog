@@ -90,7 +90,7 @@ The upstream [Microsoft Process Migrator](https://github.com/microsoft/process-m
 
 ---
 
-## 🔧 Prerequisites
+## Prerequisites
 
 ### 1. **Node.js and NPM**
 
