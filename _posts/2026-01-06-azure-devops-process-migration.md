@@ -238,7 +238,7 @@ nano migration-config.json
 
 <img width="1579" height="800" alt="Image" src="/assets/img/azure-process-migrator/06-custom-agile-process.png" />
 
-#### New Custom Field 
+#### New Custom Field Created
 
 <img width="1698" height="797" alt="Image" src="/assets/img/azure-process-migrator/07-custom-field.png" />
 
