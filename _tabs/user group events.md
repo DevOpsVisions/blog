@@ -6,6 +6,26 @@ order: 5
 
 All community sessions past and upcoming are listed below. The most recent events appear at the top.
 
+## 🔹 The AI-Augmented DevOps Loop
+
+### 📝About this event:
+
+A public demo session on how GitHub Copilot was used to build the Elmentor website in just a few hours by
+streamlining the developer inner loop. http://elmentorprogram.com/ 
+
+- **📅 Date:** Dec 17, 2025
+- **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)
+- **👁️ Views:** Upcoming Event
+- **💻 Streamed Live on:** Linkedin
+- **🌐 Language:** English
+- **🎞️ Record available on:**
+  - [Live Recording](https://www.linkedin.com/events/7383451323620433920/)
+  - [YouTube Video](https://www.youtube.com/watch?v=JV_eBwRS9uc)
+
+- **🏷️ Tags:** `copilot` `website development` `AI` `devops`
+
+---
+
 ## 🔹 Copilot End-to-End Website Walkthrough
 
 ### 📝About this event: 
@@ -14,12 +34,12 @@ A public demo session on how GitHub Copilot was used to build the Elmentor websi
 
 - **📅 Date:** Dec 09, 2025  
 - **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)  
-- **👁️ Views:** Upcoming Event  
+- **👁️ Views:** 1,200  
 - **💻 Streamed Live on:** Facebook  
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
    - [Facebook Event](https://www.facebook.com/share/16VA46JTZo/)  
-   - [YouTube Video](https://www.youtube.com/@MRadwanMSF/videos)
+   - [YouTube Video](https://www.youtube.com/watch?v=0Id7UaOeQNY)
 
 - **🏷️ Tags:** `copilot` `website development` `AI`
 
@@ -33,7 +53,7 @@ A public discussion session analyzing the new DORA report 2025 (Impact of Genera
 
 - **📅 Date:** Oct 08, 2025  
 - **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)  
-- **👁️ Views:** Upcoming Event  
+- **👁️ Views:** 870  
 - **💻 Streamed Live on:** Facebook  
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
