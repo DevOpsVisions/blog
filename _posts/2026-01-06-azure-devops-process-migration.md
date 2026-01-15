@@ -230,7 +230,7 @@ nano migration-config.json
 | `skipImportFormContributions` | `false` | Skip custom form controls (use if extensions not available) |
 
 ---
-## Before running the Migration 'Only for testing'
+## Before Running the Migration (Testing Only)
 
 ### Create test  inherited Process , Custome fields , status and Work item types 
 
