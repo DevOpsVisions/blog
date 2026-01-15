@@ -379,7 +379,7 @@ cat output/exported-process.json | jq '.states[] | {workItemTypeRefName, states:
 ### **3. Verify in Target Organization**
 
 
-**open in browser:**
+**Open in browser:**
 ```
 https://dev.azure.com/YOUR_TARGET_ORG/_settings/process
 ```
