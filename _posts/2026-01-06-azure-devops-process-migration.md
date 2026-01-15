@@ -405,7 +405,7 @@ PROCESS_ID="your-process-id"
 curl -s -u :YOUR_TARGET_PAT "https://dev.azure.com/YOUR_TARGET_ORG/_apis/work/processes/$PROCESS_ID/workItemTypes?api-version=7.1" | jq '.value[] | {name, referenceName, customization}'
 ```
 
-### **3. Use Verification Script**
+### **4. Use Verification Script**
 
 Create a verification script:
 
