@@ -428,7 +428,7 @@ if [ -z "$PROCESS_INFO" ]; then
 fi
 
 PROCESS_ID=$(echo "$PROCESS_INFO" | jq -r '.typeId')
-echo " Process found: $PROCESS_NAME"
+echo "Process found: $PROCESS_NAME"
 echo " ID: $PROCESS_ID"
 
 # Check work item types
