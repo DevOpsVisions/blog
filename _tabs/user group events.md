@@ -15,7 +15,7 @@ streamlining the developer inner loop. http://elmentorprogram.com/
 
 - **📅 Date:** Dec 17, 2025
 - **🗣️ Speakers:** [Mohamed Radwan](https://mohamedradwan.com/), [Ayman Aboghonim](https://github.com/aymanaboghonim)
-- **👁️ Views:** Upcoming Event
+- **👁️ Views:** 400
 - **💻 Streamed Live on:** Linkedin
 - **🌐 Language:** English
 - **🎞️ Record available on:**
