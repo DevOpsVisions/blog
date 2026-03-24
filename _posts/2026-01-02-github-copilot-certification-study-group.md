@@ -96,3 +96,13 @@ Our goal is to make this experience reusable: to turn one community success stor
 
 ![GitHub Copilot Study Group](/assets/img/mics/github-certificates-all.png)
 
+
+## Update: Repository Now Public
+
+After completing and structuring all study materials, we have now made the **GitHub Copilot study repository public**.
+
+This repository reflects the full preparation work, including curated knowledge, refined explanations, and practice questions aligned with real exam scenarios.
+
+The goal is to provide a **clear, structured, and proven learning path** that others can use to prepare with confidence.
+
+[GitHub Copilot Exam (GH300) Repo](https://github.com/ElmentorProgram/gh300)
