@@ -10,11 +10,15 @@ order: 4
 
 [View Full Community Stats ↓](#community-stats)
 
-An exclusive, global community of approximately 150 members representing over **20 countries**. Our members span a wide range of experience—from early-career professionals with just one to two years in the field, to seasoned experts with **up to 25 years** of deep industry expertise.
+A global community that originated in Egypt and the United Kingdom, bringing together approximately 150 members from over **20 countries** worldwide. What began as a locally rooted initiative has evolved into an international network, growing organically through shared knowledge, collaboration, and community-driven learning.
 
-At the heart of the Group is a clear and simple goal:  
+From its early foundations in Egypt and the UK, the community expanded beyond geographical boundaries, attracting professionals from diverse regions and backgrounds. Today, it represents a truly global presence, where members connect across continents, cultures, and time zones to exchange knowledge and support one another.
 
-> **To create a space where knowledge is exchanged freely, and continuous learning is not just encouraged—it’s embedded into everything we do.** 
+Our members span a wide range of experience—from early-career professionals with just one to two years in the field, to seasoned experts with **up to 25 years** of deep industry expertise. This diversity creates a dynamic environment where different perspectives come together, enabling continuous learning and meaningful collaboration at every level.
+
+At the heart of the Group is a clear and simple goal:   
+
+> **To create a space where knowledge is exchanged freely, and continuous learning is not just encouraged it’s embedded into everything we do.** 
 {: .prompt-info }
 
 ## Our Activities
