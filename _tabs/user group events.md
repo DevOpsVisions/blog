@@ -58,7 +58,7 @@ A public discussion session analyzing the new DORA report 2025 (Impact of Genera
 - **🌐 Language:** Arabic   
 - **🎞️ Record available on:**  
    - [Facebook Event](https://www.facebook.com/share/19M6GbMjKX/)  
-   - [YouTube Video](https://www.youtube.com/@MRadwanMSF/videos)
+   - [YouTube Video](https://www.youtube.com/watch?v=mk-6QnHf5Qw)
 
 - **🏷️ Tags:** `DORA` `AI` `software development`
 
