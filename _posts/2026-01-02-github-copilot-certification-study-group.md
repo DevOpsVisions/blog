@@ -55,7 +55,7 @@ Below are some of the community members who took part in this journey and earned
   <tr>
     <td style="text-align: left;">Ayman Mohamed</td>
     <td style="text-align: left;"><a href="https://github.com/aymanaboghonim">github.com/aymanaboghonim</a></td>
-    <td style="text-align: left;"><a href="https://learn.microsoft.com/api/credentials/share/en-us/aymanaboghonim-8264/E04D3893160B2280?sharingId=15762BA2442C9BDE">View credential</a></td>
+    <td style="text-align: left;"><a href="https://learn.microsoft.com/en-us/users/aymanmohamed-0910/credentials/6efddc41ef92203b">View credential</a></td>
   </tr>
   <tr>
     <td style="text-align: left;">Mouaz Salah</td>
