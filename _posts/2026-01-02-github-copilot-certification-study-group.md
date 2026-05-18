@@ -50,7 +50,7 @@ Below are some of the community members who took part in this journey and earned
   <tr>
     <td style="text-align: left;">Mohamed Radwan</td>
     <td style="text-align: left;"><a href="https://github.com/MohamedRadwan-DevOps">github.com/MohamedRadwan-DevOps</a></td>
-    <td style="text-align: left;"><a href="https://www.credly.com/users/mohamed-radwan.mvp/badges#credly">View credential</a></td>
+    <td style="text-align: left;"><a href="https://learn.microsoft.com/api/credentials/share/en-gb/MohamedRadwan-0365/AFE4BB77CB610F1C?sharingId=DT-MVP-4039889">View credential</a></td>
   </tr>
   <tr>
     <td style="text-align: left;">Ayman Mohamed</td>
